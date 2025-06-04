@@ -53,7 +53,7 @@
 
 ### 📫 Contacto
 
-- Email: [tuemail@example.com](santiagov.050506@gmail.com)
+- Email: [santiagov.050506@gmail.com](mailto:santiagov.050506@gmail.com)
 ---
 
 *Gracias por visitar mi perfil 🙌 ¡Siempre abierto a nuevas oportunidades y colaboraciones!*
