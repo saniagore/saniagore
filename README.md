@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Santiago</h1>
 <h3 align="center">Desarrollador Fullstack apasionado por crear soluciones escalables y eficientes 🚀</h3>
 
 ---
@@ -32,7 +32,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
 
 #### Bases de datos
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
 
@@ -54,10 +53,7 @@
 
 ### 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- Email: [tuemail@example.com](mailto:tuemail@example.com)
-- Portafolio: [tusitio.dev](https://tusitio.dev)
-
+- Email: [tuemail@example.com](santiagov.050506@gmail.com)
 ---
 
 *Gracias por visitar mi perfil 🙌 ¡Siempre abierto a nuevas oportunidades y colaboraciones!*
