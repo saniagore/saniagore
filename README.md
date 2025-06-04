@@ -7,6 +7,7 @@
 
 - 💼 Actualmente trabajo como **Desarrollador Fullstack**
 - 🔍 Apasionado por el diseño de interfaces intuitivas y arquitecturas backend robustas
+- 📱 Desarrollo de aplicaciones móviles usando **React Native + Expo**
 - 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo
 - 🎯 Objetivo: construir software que haga la diferencia
 
