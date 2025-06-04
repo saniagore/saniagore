@@ -26,6 +26,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)
 
+#### Frontend / Mobile
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=fff)
