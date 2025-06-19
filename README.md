@@ -61,6 +61,7 @@
 
 - Email: [santiagov.050506@gmail.com](mailto:santiagov.050506@gmail.com)
 - Portafolio: [santiagovtdev.netlify.app](https://santiagovtdev.netlify.app)
+- LinkedIn: [LinkedIn/Santiago-Vanegas](https://www.linkedin.com/in/santiago-vanegas-76363336a/)
 ---
 
 *Gracias por visitar mi perfil 🙌 ¡Siempre abierto a nuevas oportunidades y colaboraciones!*
