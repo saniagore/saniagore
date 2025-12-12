@@ -39,7 +39,7 @@
 
 ## Proof of work (Live demos)
 
-> Tip: Pin these repositories on your GitHub profile (up to 6) so clients see your best work first.
+
 
 - **Eventify** — Web platform to explore, create and manage events.  
   Repo: https://github.com/saniagore/Eventify • Demo: https://eventify-uv.vercel.app
