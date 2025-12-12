@@ -34,7 +34,6 @@
 
 ## Prueba de trabajo (demos)
 
-> Tip: fija (“pin”) estos repos en tu perfil (hasta 6) para que un cliente vea lo mejor primero.
 
 - **Eventify** — Plataforma web para explorar, crear y administrar eventos.  
   Repo: https://github.com/saniagore/Eventify • Demo: https://eventify-uv.vercel.app
