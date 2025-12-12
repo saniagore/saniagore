@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://santiagovtdev.netlify.app">Portfolio</a> •
   <a href="mailto:santiagov.050506@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/santiago-vanegas-76363336a/">LinkedIn</a>
+  <a href="www.linkedin.com/in/santiago-vanegas-torres-76363336a">LinkedIn</a>
 </p>
 
 ---
