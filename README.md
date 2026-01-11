@@ -94,4 +94,4 @@
 
 - Email: <a href="mailto:santiagov.050506@gmail.com">santiagov.050506@gmail.com</a>
 - Portfolio: https://santiagovtdev.netlify.app
-- LinkedIn: https://www.linkedin.com/in/santiago-vanegas-76363336a/
+- LinkedIn: https://www.linkedin.com/in/santiago-vanegas-torres-76363336a/
