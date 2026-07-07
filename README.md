@@ -14,10 +14,14 @@
 
 ### 👤 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en la **Universidad del Valle**. Me apasiona el desarrollo de software y la resolución de problemas complejos a través del código.
+Estudiante de Ingeniería de Sistemas en la **Universidad del Valle**, apasionado por convertir ideas complejas en software simple y funcional.
 
-- 🛠️ Experiencia creando aplicaciones Web y Móviles (iOS/Android).
-- 🧠 Interesado en la optimización de procesos, algoritmos y la lógica aplicada.
+Actualmente construyendo **SAVAT** 🚀 y explorando cómo la lógica algorítmica y la física clásica se conectan con el diseño de sistemas eficientes.
+
+- 🔭 Trabajando en soluciones full-stack escalables (web + móvil).
+- 🧩 Me obsesiona optimizar: procesos, código, y hasta rutinas de entrenamiento.
+- 🎮 Cuando no programo, compito en videojuegos o resuelvo problemas de física por diversión.
+- 📚 Siempre aprendiendo algo nuevo.
 
 ---
 
@@ -45,11 +49,6 @@ Soy estudiante de Ingeniería de Sistemas en la **Universidad del Valle**. Me ap
   <img src="https://github-readme-stats.vercel.app/api?username=saniagore&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniagore&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
-
----
-
-### ⚡ Otros intereses
-Cuando no estoy programando, me gusta mantenerme activo practicando deportes, estudiando temas de física clásica o disfrutando de videojuegos competitivos.
 
 ---
 
