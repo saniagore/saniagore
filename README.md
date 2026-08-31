@@ -36,7 +36,7 @@ Estudiante de Ingeniería de Sistemas en la **Universidad del Valle** con experi
 
 ### 📂 Proyectos Destacados
 
-- **[Historias Clínicas con IA]** — Plataforma para automatizar la estructuración de notas SOAP usando LLMs (Flask + MongoDB).
+- **[Historias Clínicas con IA](https://lector-de-historias-clinicas.vercel.app/login)** — Plataforma para automatizar la estructuración de notas SOAP usando LLMs (Flask + MongoDB).
 - **[Ugüee - Gestión de Transporte]** — Plataforma integral para optimizar la movilidad universitaria y metropolitana (React + Node.js + PostgreSQL).
 - **[Acortador URL](https://acortador-url-beta.vercel.app)** — Servicio con analítica de clics y enlaces personalizados (FastAPI + Neon).
 - **[Motor de Búsqueda Indexada](https://busqueda-indexada.netlify.app)** — Filtrado y renderizado dinámico en tiempo real (React + TypeScript + Vite).
