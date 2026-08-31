@@ -14,11 +14,11 @@
 
 ### 👤 Sobre mí
 
-Estudiante de Ingeniería de Sistemas en la **Universidad del Valle** con experiencia práctica en el diseño, desarrollo y despliegue de software de ciclo completo[cite: 1].
+Estudiante de Ingeniería de Sistemas en la **Universidad del Valle** con experiencia práctica en el diseño, desarrollo y despliegue de software de ciclo completo.
 
-- 🚀 **Ecosistema principal**: TypeScript/JavaScript (React, React Native, Node.js) y Python (APIs, ETL y LLMs)[cite: 1].
-- 💡 Experiencia construyendo aplicaciones móviles de alta exigencia, plataformas web escalables y herramientas de automatización con IA[cite: 1].
-- 📊 Interés en análisis de datos, optimización algorítmica y procesamiento eficiente[cite: 1].
+- 🚀 **Ecosistema principal**: TypeScript/JavaScript (React, React Native, Node.js) y Python (APIs, ETL y LLMs).
+- 💡 Experiencia construyendo aplicaciones móviles de alta exigencia, plataformas web escalables y herramientas de automatización con IA.
+- 📊 Interés en análisis de datos, optimización algorítmica y procesamiento eficiente.
 
 ---
 
@@ -26,21 +26,21 @@ Estudiante de Ingeniería de Sistemas en la **Universidad del Valle** con experi
 
 | Capa | Herramientas |
 | :--- | :--- |
-| **Frontend & Mobile** | React, React Native, TypeScript, JavaScript, Vite[cite: 1] |
-| **Backend & APIs** | Node.js, Express, Python, Flask, FastAPI, REST APIs[cite: 1] |
-| **Bases de Datos & Media** | PostgreSQL, Neon, MongoDB, Cloudinary[cite: 1] |
-| **Datos & IA** | Pandas, NumPy, ETL/Scraping, Integración de LLMs (Gemini AI)[cite: 1] |
-| **Herramientas & Cloud** | Git, GitHub, AWS (fund.)[cite: 1] |
+| **Frontend & Mobile** | React, React Native, TypeScript, JavaScript, Vite |
+| **Backend & APIs** | Node.js, Express, Python, Flask, FastAPI, REST APIs |
+| **Bases de Datos & Media** | PostgreSQL, Neon, MongoDB, Cloudinary |
+| **Datos & IA** | Pandas, NumPy, ETL/Scraping, Integración de LLMs (Gemini AI) |
+| **Herramientas & Cloud** | Git, GitHub, AWS (fund.) |
 
 ---
 
 ### 📂 Proyectos Destacados
 
-- **[Historias Clínicas con IA]** — Plataforma para automatizar la estructuración de notas SOAP usando LLMs (Flask + MongoDB)[cite: 1].
-- **[Ugüee - Gestión de Transporte]** — Plataforma integral para optimizar la movilidad universitaria y metropolitana (React + Node.js + PostgreSQL)[cite: 1].
-- **[Acortador URL](https://acortador-url-beta.vercel.app)** — Servicio con analítica de clics y enlaces personalizados (FastAPI + Neon)[cite: 1].
-- **[Motor de Búsqueda Indexada](https://busqueda-indexada.netlify.app)** — Filtrado y renderizado dinámico en tiempo real (React + TypeScript + Vite)[cite: 1].
-- **[MLQ Simulator]** — Simulador de planificación de procesos de SO (Round Robin & SJF) con cálculo de métricas de rendimiento (Python)[cite: 1].
+- **[Historias Clínicas con IA]** — Plataforma para automatizar la estructuración de notas SOAP usando LLMs (Flask + MongoDB).
+- **[Ugüee - Gestión de Transporte]** — Plataforma integral para optimizar la movilidad universitaria y metropolitana (React + Node.js + PostgreSQL).
+- **[Acortador URL](https://acortador-url-beta.vercel.app)** — Servicio con analítica de clics y enlaces personalizados (FastAPI + Neon).
+- **[Motor de Búsqueda Indexada](https://busqueda-indexada.netlify.app)** — Filtrado y renderizado dinámico en tiempo real (React + TypeScript + Vite).
+- **[MLQ Simulator]** — Simulador de planificación de procesos de SO (Round Robin & SJF) con cálculo de métricas de rendimiento (Python).
 
 ---
 
@@ -55,6 +55,6 @@ Estudiante de Ingeniería de Sistemas en la **Universidad del Valle** con experi
 
 ### 📫 Conectemos
 
-- 💼 [LinkedIn](https://linkedin.com/in/santiago-vanegas)[cite: 1]
+- 💼 [LinkedIn](https://linkedin.com/in/santiago-vanegas)
 - 🌐 [Portfolio](https://santiagovtdev.netlify.app)
-- ✉️ [Email](mailto:santiagov.050506@gmail.com)[cite: 1]
+- ✉️ [Email](mailto:santiagov.050506@gmail.com)
