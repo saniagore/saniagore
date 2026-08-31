@@ -3,25 +3,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Systems%20Engineering%20Student-Universidad%20del%20Valle-red?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building%20at-SAVAT-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cali-Colombia-FCD116?style=flat-square" />
 </p>
 
 <p align="center">
-  <b>Desarrollador Full-Stack enfocado en crear soluciones escalables y funcionales.</b>
+  <b>Desarrollador Full-Stack enfocado en soluciones web, móviles y pipelines con IA/Datos.</b>
 </p>
 
 ---
 
 ### 👤 Sobre mí
 
-Estudiante de Ingeniería de Sistemas en la **Universidad del Valle**, apasionado por convertir ideas complejas en software simple y funcional.
+Estudiante de Ingeniería de Sistemas en la **Universidad del Valle** con experiencia práctica en el diseño, desarrollo y despliegue de software de ciclo completo[cite: 1].
 
-Actualmente construyendo **SAVAT** 🚀 y explorando cómo la lógica algorítmica y la física clásica se conectan con el diseño de sistemas eficientes.
-
-- 🔭 Trabajando en soluciones full-stack escalables (web + móvil).
-- 🧩 Me obsesiona optimizar: procesos, código, y hasta rutinas de entrenamiento.
-- 🎮 Cuando no programo, compito en videojuegos o resuelvo problemas de física por diversión.
-- 📚 Siempre aprendiendo algo nuevo.
+- 🚀 **Ecosistema principal**: TypeScript/JavaScript (React, React Native, Node.js) y Python (APIs, ETL y LLMs)[cite: 1].
+- 💡 Experiencia construyendo aplicaciones móviles de alta exigencia, plataformas web escalables y herramientas de automatización con IA[cite: 1].
+- 📊 Interés en análisis de datos, optimización algorítmica y procesamiento eficiente[cite: 1].
 
 ---
 
@@ -29,17 +26,21 @@ Actualmente construyendo **SAVAT** 🚀 y explorando cómo la lógica algorítmi
 
 | Capa | Herramientas |
 | :--- | :--- |
-| **Frontend** | React, React Native, TypeScript, Tailwind |
-| **Backend** | Node.js, Express, Python (FastAPI/Django) |
-| **Infra & DB** | PostgreSQL, Supabase, Docker, Vercel |
-| **Extras** | Git, GitHub Actions, Expo |
+| **Frontend & Mobile** | React, React Native, TypeScript, JavaScript, Vite[cite: 1] |
+| **Backend & APIs** | Node.js, Express, Python, Flask, FastAPI, REST APIs[cite: 1] |
+| **Bases de Datos & Media** | PostgreSQL, Neon, MongoDB, Cloudinary[cite: 1] |
+| **Datos & IA** | Pandas, NumPy, ETL/Scraping, Integración de LLMs (Gemini AI)[cite: 1] |
+| **Herramientas & Cloud** | Git, GitHub, AWS (fund.)[cite: 1] |
 
 ---
 
 ### 📂 Proyectos Destacados
 
-- **[Acortador URL](https://acortador-url-beta.vercel.app)** — Herramienta open-source con analítica (FastAPI/Neon).
-- **[Búsqueda Indexada](https://busqueda-indexada.netlify.app)** — Filtrado en tiempo real de alto rendimiento.
+- **[Historias Clínicas con IA]** — Plataforma para automatizar la estructuración de notas SOAP usando LLMs (Flask + MongoDB)[cite: 1].
+- **[Ugüee - Gestión de Transporte]** — Plataforma integral para optimizar la movilidad universitaria y metropolitana (React + Node.js + PostgreSQL)[cite: 1].
+- **[Acortador URL](https://acortador-url-beta.vercel.app)** — Servicio con analítica de clics y enlaces personalizados (FastAPI + Neon)[cite: 1].
+- **[Motor de Búsqueda Indexada](https://busqueda-indexada.netlify.app)** — Filtrado y renderizado dinámico en tiempo real (React + TypeScript + Vite)[cite: 1].
+- **[MLQ Simulator]** — Simulador de planificación de procesos de SO (Round Robin & SJF) con cálculo de métricas de rendimiento (Python)[cite: 1].
 
 ---
 
@@ -54,6 +55,6 @@ Actualmente construyendo **SAVAT** 🚀 y explorando cómo la lógica algorítmi
 
 ### 📫 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-vanegas-torres-76363336a/)
+- 💼 [LinkedIn](https://linkedin.com/in/santiago-vanegas)[cite: 1]
 - 🌐 [Portfolio](https://santiagovtdev.netlify.app)
-- ✉️ [Email](mailto:santiagov.050506@gmail.com)
+- ✉️ [Email](mailto:santiagov.050506@gmail.com)[cite: 1]
